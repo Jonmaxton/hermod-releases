@@ -1,1 +1,1 @@
-{"version": "1.2.14", "download_url": "https://github.com/Jonmaxton/hermod-releases/releases/download/v1.2.14/HermodSetup_v1.2.14.exe", "release_notes": "Bot token pre-bundled. API upload fallback for new sites. slack_client fix. Admin-free install."}
+{"version": "1.2.15", "download_url": "https://github.com/Jonmaxton/hermod-releases/releases/download/v1.2.15/HermodSetup_v1.2.15.exe", "release_notes": "Token pre-bundled. Session setup restored. Simplified dedup. Credentials cleanup. Bug fixes."}
