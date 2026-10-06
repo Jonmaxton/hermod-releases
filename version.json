@@ -1,1 +1,6 @@
-{"version": "1.2.15", "download_url": "https://github.com/Jonmaxton/hermod-releases/releases/download/v1.2.15/HermodSetup_v1.2.15.exe", "release_notes": "Token pre-bundled. Session setup restored. Simplified dedup. Credentials cleanup. Bug fixes."}
+{
+  "version": "1.2.17",
+  "release_date": "2026-10-06",
+  "installer_url": "https://github.com/jonmaxto/hermod-releases/releases/download/v1.2.17/HermodSetup_v1.2.17.exe",
+  "release_notes": "Fixed Slack token could get silently wiped on save (new-install bug). Deactivated duplicate-posting protection. Removed dead code (old upload cluster, superseded queue coordinator)."
+}
